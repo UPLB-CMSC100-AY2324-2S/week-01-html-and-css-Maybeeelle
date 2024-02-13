@@ -4,7 +4,7 @@ Full Name: Patetico, Maybelle Q.
 
 Degree Program: BS Computer Sciencce
 
-Live Website link:
+Live Website link: https://uplb-cmsc100-ay2324-2s.github.io/week-01-html-and-css-Maybeeelle/
 
 Steps on how to create GitHub page
 1. go to settings
